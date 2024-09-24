@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554951726806",
+    "project_id": "crud-93d23",
+    "storage_bucket": "crud-93d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554951726806:android:36b3dec9d9e85c699b1b77",
+        "android_client_info": {
+          "package_name": "com.example.qr_reader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD67s7znjE0pb_WJRlBCsBVTMSdtgv30nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
